@@ -2,7 +2,6 @@
 
 Hi 👋, I'm Aldrin!
 #### A Web developer Student.
-!A A Web developer Student.
 
 
 🔭 I’m currently studying at University of the Cordilleras

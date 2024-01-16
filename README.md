@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edmer664&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
-<p align="left"> <a href="https://twitter.com/edmerkun" target="blank"><img src="https://img.shields.io/twitter/follow/edmerkun?logo=twitter&style=for-the-badge" alt="edmerkun" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayAldrinPrado21664&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
 Hi 👋, I'm Aldrin!
 #### A Web developer Student.

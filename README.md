@@ -6,6 +6,7 @@ Hi 👋, I'm Aldrin!
 
 
 🔭 I’m currently studying at University of the Cordilleras
+
 🎞️ My favorite series: Peaky Blinders
 
 
